@@ -1,3 +1,5 @@
+service tor start
+$ ./instashell.sh
 #!/bin/bash
 # Coded by @thelinuxchoice (Instagram)
 checkroot() {
